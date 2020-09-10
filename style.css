@@ -1,0 +1,10 @@
+.news {
+    display:flex;
+    border: 1px solid red;
+}
+
+.bottomItems {
+    display: flex;
+    justify-items: end;
+    
+}
